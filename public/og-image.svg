@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="30%" r="70%">
+      <stop offset="0" stop-color="#ff3d1f" stop-opacity=".65"/>
+      <stop offset=".45" stop-color="#111318"/>
+      <stop offset="1" stop-color="#050608"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <circle cx="890" cy="140" r="180" fill="#e7c987" opacity=".18"/>
+  <text x="80" y="270" fill="#fff" font-family="Arial, sans-serif" font-size="82" font-weight="800">Scattergates</text>
+  <text x="84" y="350" fill="#e7c987" font-family="Arial, sans-serif" font-size="34" letter-spacing="6">PREMIUM CORPORATE GIFTING</text>
+</svg>
